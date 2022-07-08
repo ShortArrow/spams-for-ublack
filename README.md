@@ -3,7 +3,7 @@ list of spam site for Chrome Extension named uBlacklist
 
 # Usage
 
-install [ublacklist](https://github.com/iorate/ublacklist), and add [file]() as subscription provider.
+install [ublacklist](https://github.com/iorate/ublacklist), and add [dist/spamlist.txt]() as subscription provider.
 
 # Thanks
 
