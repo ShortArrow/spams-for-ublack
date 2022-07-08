@@ -1,6 +1,11 @@
 # Spam site list for uBlacklist
 list of spam site for Chrome Extension named uBlacklist
 
+# Voice
+
+Hmmm, Not any more!
+List sites that are a distraction to IT engineers.
+
 # Usage
 
 install [ublacklist](https://github.com/iorate/ublacklist), and add [dist/spamlist.txt]() as subscription provider.
