@@ -20,6 +20,10 @@ install [ublacklist](https://github.com/iorate/ublacklist), and add [dist/spamli
 
 If you find spam, please raise isuue or send pull requests. However, do not become spam yourself. Be careful.
 
+# Dependencies
+
+- <https://github.com/iorate/ublacklist>
+
 # Thanks
 
 Not related to this product.
