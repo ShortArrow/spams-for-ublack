@@ -1,5 +1,5 @@
 # Spam site list for uBlacklist
-list of spam site for Chrome Extension named uBlacklist
+list of spam site for Browser Extension named uBlacklist
 
 ```md
 - spamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspam
