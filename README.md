@@ -14,7 +14,11 @@ List sites that are a distraction to IT engineers.
 
 # Usage
 
-install [ublacklist](https://github.com/iorate/ublacklist), and add [dist/spamlist.txt]() as subscription provider.
+install [ublacklist](https://github.com/iorate/ublacklist), and add [dist/spamlist.txt](https://raw.githubusercontent.com/ShortArrow/spams-for-ublack/main/dist/spamlist.txt) as subscription provider.
+
+```txt
+https://raw.githubusercontent.com/ShortArrow/spams-for-ublack/main/dist/spamlist.txt
+```
 
 # Contribution
 
