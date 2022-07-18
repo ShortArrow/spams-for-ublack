@@ -20,3 +20,4 @@
 *://serveanswer.com/*
 *://codeutility.org/*
 *://tutorialmore.com/*
+*://www.web-dev-qa-db-ja.com/*
