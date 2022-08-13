@@ -21,3 +21,4 @@
 *://codeutility.org/*
 *://tutorialmore.com/*
 *://www.web-dev-qa-db-ja.com/*
+*://geeksrepos.com/*
