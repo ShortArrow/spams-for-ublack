@@ -41,3 +41,4 @@
 *://www.alldatasheetru.com/*
 *://elcodis.com/*
 *://www.easycnc.net/*
+*://doc.chipfind.ru/*
