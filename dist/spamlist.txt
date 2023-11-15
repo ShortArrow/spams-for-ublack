@@ -32,3 +32,9 @@
 *://manufacture.alldatasheet.com/*
 *://www.digchip.com/*
 *://jp.digchip.com/*
+*://www.datasheet-pdf.com/*
+*://www.datasheetcatalog.com/*
+*://www.chipdocs.com/*
+*://datasheetgo.com/*
+*://datasheet4u.com/*
+*://www.qdatasheet.com/*
