@@ -22,3 +22,11 @@
 *://tutorialmore.com/*
 *://www.web-dev-qa-db-ja.com/*
 *://geeksrepos.com/*
+*://ja.datasheetq.com/*
+*://www.datasheetq.com/*
+*://datasheetspdf.com/*
+*://www.datasheet.jp/*
+*://www.alldatasheet.jp/*
+*://www.alldatasheet.com/*
+*://www.alldatasheets.com/*
+*://manufacture.alldatasheet.com/*
