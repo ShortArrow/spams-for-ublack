@@ -30,3 +30,5 @@
 *://www.alldatasheet.com/*
 *://www.alldatasheets.com/*
 *://manufacture.alldatasheet.com/*
+*://www.digchip.com/*
+*://jp.digchip.com/*
