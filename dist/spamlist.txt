@@ -38,6 +38,7 @@
 *://datasheetgo.com/*
 *://datasheet4u.com/*
 *://www.qdatasheet.com/*
+*://www.web-dev-qa-db-ja.com/*
 *://www.alldatasheetru.com/*
 *://elcodis.com/*
 *://www.easycnc.net/*
